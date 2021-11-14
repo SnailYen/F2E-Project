@@ -363,7 +363,7 @@ footer .circle-400 {
 .full-screen {
   width: 100vw;
   height: 100vh;
-  background: url("../../assets/indexBGI.png");
+  background: url("../assets/indexBGI.png");
   background-size: cover;
   background-repeat: no-repeat;
   overflow: hidden;
