@@ -238,7 +238,7 @@ header {
   width: 100vw;
   height: 400px;
   background-color: #ccc;
-  background-image: url(../../assets/searchBGI.png);
+  background-image: url(../assets/searchBGI.png);
   background-size: cover;
   background-repeat: no-repeat;
 }
